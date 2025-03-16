@@ -31,3 +31,4 @@ C:\Users\HP\Desktop\proyecto1\csharpapigenerica\obj\Debug\net8.0\refint\csharpap
 C:\Users\HP\Desktop\proyecto1\csharpapigenerica\obj\Debug\net8.0\csharpapigenerica.pdb
 C:\Users\HP\Desktop\proyecto1\csharpapigenerica\obj\Debug\net8.0\csharpapigenerica.genruntimeconfig.cache
 C:\Users\HP\Desktop\proyecto1\csharpapigenerica\obj\Debug\net8.0\ref\csharpapigenerica.dll
+C:\Users\HP\Desktop\proyecto1\csharpapigenerica\obj\Debug\net8.0\csharpapigenerica.sourcelink.json
